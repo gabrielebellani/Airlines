@@ -84,4 +84,5 @@ ___
 
 - ### 2025.09.12:
   initial commit; removed old, cargo, charter, leasing, ghost airlines; added XZ, SV, XN.
-
+- ### 2025.09.13:
+  changed non-IATA SZS to SZ; removed DI, 8Z, K2; added W4, FV, D8, N0 

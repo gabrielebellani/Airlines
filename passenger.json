@@ -38,7 +38,7 @@
     "logo": "https://images.kiwi.com/airlines/64/UU.png"
   },
   {
-    "iata": "SZS",
+    "iata": "SZ",
     "lcc": "None",
     "name": "Scandinavian Airlines Ireland",
     "logo": "https://images.kiwi.com/airlines/64/SZS.png"
@@ -282,12 +282,6 @@
     "lcc": "0",
     "name": "Air Mediterranean",
     "logo": "https://images.kiwi.com/airlines/64/MV.png"
-  },
-  {
-    "iata": "DI",
-    "lcc": "0",
-    "name": "Norwegian Air UK",
-    "logo": "https://images.kiwi.com/airlines/64/DI.png"
   },
   {
     "iata": "RT",
@@ -1326,12 +1320,6 @@
     "lcc": "0",
     "name": "TUIfly Nordic",
     "logo": "https://images.kiwi.com/airlines/64/6B.png"
-  },
-  {
-    "iata": "8Z",
-    "lcc": "0",
-    "name": "Wizz Air Hungary",
-    "logo": "https://images.kiwi.com/airlines/64/8Z.png"
   },
   {
     "iata": "CV",
@@ -2654,12 +2642,6 @@
     "logo": "https://images.kiwi.com/airlines/64/UG.png"
   },
   {
-    "iata": "K2",
-    "lcc": "0",
-    "name": "EuroLot",
-    "logo": "https://images.kiwi.com/airlines/64/K2.png"
-  },
-  {
     "iata": "IT",
     "lcc": "0",
     "name": "Tigerair Taiwan",
@@ -2754,5 +2736,29 @@
     "lcc": "0",
     "name": "Mexicana de Aviación",
     "logo": "https://images.kiwi.com/airlines/64x64/XN.png"
+  },
+  {
+    "iata": "W4",
+    "lcc": "1",
+    "name": "Wizz Air Malta",
+    "logo": "https://images.kiwi.com/airlines/64/W4.png"
+  },
+  {
+    "iata": "FV",
+    "lcc": "0",
+    "name": "Rossiya",
+    "logo": "https://images.kiwi.com/airlines/64/FV.png"
+  },
+  {
+    "iata": "D8",
+    "lcc": "0",
+    "name": "Norwegian Air Sweden",
+    "logo": "https://images.kiwi.com/airlines/64/D8.png"
+  },
+  {
+    "iata": "N0",
+    "lcc": "1",
+    "name": "Norse Atlantic Airways",
+    "logo": "https://images.kiwi.com/airlines/64/D8.png"
   }
 ]
