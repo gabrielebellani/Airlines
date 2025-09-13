@@ -21,6 +21,8 @@ in the list.
 Some airlines names or codes from ```passenger.json``` may differ from the ones in ```airlines.json``` because they have
 been updated based on the latest market operations (renaming, merges, rebranding, etc.).
 
+You can also use ```passenger.min.json``` that is ~14KB less.
+
 _If you need cargo, charter, leasing or defunct airlines, please refer to airlines.json._
 
 # Contributing
